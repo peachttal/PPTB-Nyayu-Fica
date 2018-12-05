@@ -25,8 +25,15 @@ Minggu ke-1 Desember: Proyek kelar, PPT dan aplikasi sudah siap
 Topik:
 1. Bikin alat & bahan masakan berdasarkan bahan yg kita punya
 
-Deskripsi singkat:
+Deskripsi singkat:Cookpedia merupakan salah satu android cooking app. 
+Pada dasarnya, Cookpedia lahir karena kesulitan penulis untuk menemukan
+aplikasi yang sesuai untuk mewadahi hobi untuk memasak akan tetapi dengan
+alat dan bahan yang sangat terbatas. Melalui Cookpedia, pengguna dapat mencari
+resep sesuai dengan bahan dan alat yang dimiliki. Selain itu, pengguna juga
+dapat menambahkan resep masakan yang mereka buat ke pengguna lainnya.
+Oleh karena itu, dengan Cookpedia hobi "masak" setiap pengguna bisa terwadahi. 
 
-Fitur-fitur:
+Fitur-fitur:Login page, sign up page, tambah resep, upload resep, about Cookpedia
 
-Sasaran pengguna/kebutuhan pengguna:
+Sasaran pengguna/kebutuhan pengguna:Cookpedia dibuat untuk siapa saja yang memiliki
+kecintaan terhadap "memasak"
